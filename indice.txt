@@ -2,3 +2,5 @@ Cap 1: Introduccion a Git
 Cap 2: Flujo de trabajo basico
 Cap 3: Gestion de Ramas
 Cap 4: Repositorio remotos
+Cap 5: Conclusiones
+Cap 6: Biblio
